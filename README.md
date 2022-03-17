@@ -20,4 +20,8 @@ HTTPS ports supported by Cloudflare:
 
 # certification key openssl
 
+install openssl 
+set path in envirenment
+
+
 https://freestrokes.tistory.com/154

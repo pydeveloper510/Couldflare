@@ -17,3 +17,7 @@ HTTPS ports supported by Cloudflare:
 2087
 2096
 8443
+
+# certification key openssl
+
+https://freestrokes.tistory.com/154
